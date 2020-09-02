@@ -1,4 +1,4 @@
-# Data Driven Investor
+# Medium Articles
 
 This repo contains codes and associated Data Driven Investor articles.
 
