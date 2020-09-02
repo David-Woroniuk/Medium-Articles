@@ -1,2 +1,7 @@
-# Data_Driven_Investor
-Consolidated codes for articles published by Data Driven Investor
+# Data Driven Investor
+
+This repo contains codes and associated Data Driven Investor articles.
+
+https://chart-studio.plotly.com/~DavidWoroniuk/319/
+
+
