@@ -1,6 +1,6 @@
 # Medium Articles
 
-This repo contains codes and associated Data Driven Investor articles.
+This repo contains codes and associated Medium articles.
 
 
 <div>
