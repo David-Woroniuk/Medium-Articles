@@ -14,3 +14,8 @@ Named Entity Recognition
 </div>
 
 
+Outlier Detection with RNN Autoencoders
+
+<div>
+    <a href="https://plotly.com/~DavidWoroniuk/340/" target="_blank" title="Plot Outliers" style="display: block; text-align: center;"><img src="https://plotly.com/~DavidWoroniuk/340.png" alt="Plot Outliers" style="max-width: 100%;width: 600px;"  width="600" onerror="this.onerror=null;this.src='https://plotly.com/404.png';" /></a>
+</div>
