@@ -190,7 +190,7 @@ strategy_three.loc[(strategy_three['21_SMA_Sentiment'] > strategy_three['50_SMA_
                    (strategy_three['21_SMA_Negative'] < strategy_three['50_SMA_Negative']), 'trigger'] = 1
                    
                    
-STRATEGY 4:
+#STRATEGY 4:
 # copy market_data to maintain data integrity:
 strategy_four = market_data.copy(deep=True)
 
